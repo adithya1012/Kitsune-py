@@ -75,6 +75,12 @@ while True:
 
 
 # Demo Code
+Open the terminal where the code base is cloned and run the following commands to install the required libraries.
+```
+chmod +x requirement.sh
+./requirement.sh
+```
+
 As a quick start, a demo script is provided in example.py. In the demo, we run Kitsune on a network capture of the Mirai malware. You can either run it directly or enter the following into your python console
 ```
 import example.py
